@@ -19,6 +19,11 @@
 
     <style name="Theme.Bacon" parent="@style/Theme.AppCompat.Light.NoActionBar">
 
+        <item name="colorPrimary">@color/material_deep_teal_200</item>
+        <item name="colorPrimaryDark">@color/primary_dark_material_dark</item>
+        <item name="android:colorBackground">@color/background_material_light</item>
+        <item name="android:colorForeground">@color/foreground_material_dark</item>
+        <item name="android:textColorPrimary">@android:color/white</item>
     </style>
 
     <style name="Theme.Bacon.Detail">
