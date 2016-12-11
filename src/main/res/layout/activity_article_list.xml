@@ -32,7 +32,6 @@
         <ImageView
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:src="@drawable/news"
             android:padding="0dp"
             android:contentDescription="@string/app_name"
             android:scaleType="centerCrop" />
