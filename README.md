@@ -10,11 +10,11 @@ The application is to be enhanced to reflect material design and the scope is op
 
 The original application requires some minor amends according to the user feedback.
 
-![XYZReader](images/nexus6p_original_med.png?raw=true "XYZReader")
+![XYZReader](images/original_nexus9_screenshot_med.png?raw=true "XYZReader Original")
 
 
 ## Revised application UX
 
 The revision to the application covers a material design make over. 
 
-![XYZReader](images/nexus9_screenshot.png?raw=true "XYZReader")
+![XYZReader](images/nexus9_screenshot.png?raw=true "XYZReader Material")
